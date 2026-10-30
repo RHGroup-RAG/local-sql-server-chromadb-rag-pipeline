@@ -1,0 +1,12 @@
+# Local environment variables
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database files
+*.db
+*.sqlite
+chroma_data/
