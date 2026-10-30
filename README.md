@@ -2,7 +2,7 @@
 
 A production-ready, air-gapped Blueprint for extracting relational enterprise data, vectorizing it locally, and serving it securely via a zero-cost Ollama runtime—without cloud data leaks.
 
-[👉 Get the Full Production Scripts & Tiers on Gumroad](rhgroup.gumroad.com/l/pbscy)
+[👉 Get the Full Production Scripts & Tiers on Gumroad](https://rhgroup.gumroad.com/l/pbscy)
 
  Architectural Overview
 Traditional RAG tutorials show you how to read simple PDF files. This blueprint is designed for real-world enterprise constraints: migrating live SQL tables into structured vector space locally, handling incremental delta updates, and respecting strict data isolation boundaries.
@@ -36,7 +36,7 @@ The public repository contains the architectural skeleton. If you need the fully
 * **Tier 1: Core Pipeline Scripts** (SQLAlchemy + ChromaDB Sync Engine)
 * **Tier 2: Enterprise Security & Deployment** (Role Filters + Ollama Prompt Wrappers)
 
-[👉 Get the Full Production Scripts & Tiers on Gumroad]([YOUR_GUMROAD_LINK_HERE](rhgroup.gumroad.com/l/pbscy)
+[👉 Get the Full Production Scripts & Tiers on Gumroad]([YOUR_GUMROAD_LINK_HERE](https://rhgroup.gumroad.com/l/pbscy)
 
  Why Local-First is the Mandatory Starting Line
 
