@@ -36,7 +36,7 @@ The public repository contains the architectural skeleton. If you need the fully
 * **Tier 1: Core Pipeline Scripts** (SQLAlchemy + ChromaDB Sync Engine)
 * **Tier 2: Enterprise Security & Deployment** (Role Filters + Ollama Prompt Wrappers)
 
-[👉 Get the Full Production Scripts & Tiers on Gumroad]([YOUR_GUMROAD_LINK_HERE](https://rhgroup.gumroad.com/l/pbscy)
+[👉 Get the Full Production Scripts & Tiers on Gumroad](https://rhgroup.gumroad.com/l/pbscy)
 
  Why Local-First is the Mandatory Starting Line
 
